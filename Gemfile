@@ -9,6 +9,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'redis'
 
 gem 'sass-rails'
+gem 'easy_as_pie'
 gem 'jquery-rails'
 gem 'uglifier'
 gem 'bootstrap-sass'
@@ -19,7 +20,7 @@ gem 'autoprefixer-rails'
 group :development, :test do
   gem 'binding_of_caller'
   gem 'better_errors'
-  
+
   gem 'pry-byebug'
   gem 'pry-rails'
   gem 'spring'

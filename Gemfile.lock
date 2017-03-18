@@ -55,6 +55,8 @@ GEM
     coderay (1.1.1)
     concurrent-ruby (1.0.5)
     debug_inspector (0.0.2)
+    easy_as_pie (0.1.2)
+      rails (>= 3.0)
     erubis (2.7.0)
     execjs (2.7.0)
     ffi (1.9.18)
@@ -173,6 +175,7 @@ DEPENDENCIES
   better_errors
   binding_of_caller
   bootstrap-sass
+  easy_as_pie
   figaro
   font-awesome-sass
   jbuilder (~> 2.0)
